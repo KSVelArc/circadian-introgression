@@ -1,6 +1,6 @@
 CIRCADIAN INTROGRESSION PROJECT
 ===============================
-` velazqks `
+` Keila S. Velazquez-Arcelay `
 
 Modern humans and archaic hominins (i.e, Neanderthals and Denisovans) split from an African common ancestor approximately 700,000 years ago. While humans appeared and evolved in the same continent 300,000 years ago, archaic hominins evolved in Eurasia more than 400,000 years ago. Throughout their evolutionary history, these groups evolved at strikingly different latitudes: from near-Equatorial regions with little seasonal pattern fluctuation and constant UV exposure to a Northern temperate zone with marked fluctuation in photoperiod and lower UV exposure. This project shows that these groups maintained an excess of lineage-specific variation in the genomic regions associated with circadian genes. It also shows latitudinal clines in alleles associated with chronotype in present-day humans of Eurasian ancestry.
 
@@ -126,5 +126,5 @@ Directory
         ├──chronotype_chr2_r2.tsv
         ├──README.md
     ├──plots/
-        ├──
+        ├──Figure5b.pdf
 
